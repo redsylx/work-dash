@@ -1,0 +1,5 @@
+.claude/
+.opencode/
+.DS_Store
+node_modules/
+opencode.jsonc
